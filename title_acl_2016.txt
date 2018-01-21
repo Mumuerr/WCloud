@@ -1,0 +1,367 @@
+
+
+
+
+ 
+ 
+A CALL system for learning preposition usage
+A Character-level Decoder without Explicit Segmentation for Neural Machine Translation
+A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation
+A Corpus-Based Analysis of Canonical Word Order of Japanese Double Object Constructions
+A Discriminative Topic Model using Document Network Structure
+A Fast Unified Model for Parsing and Sentence Understanding
+A Mean-Field Vector Space for Distributional Semantics for Entailment
+A Multi-media Approach to Cross-lingual Entity Knowledge Transfer
+A New Psychometric-inspired Evaluation Metric for Chinese Word Segmentation
+A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data
+A Persona-Based Neural Conversation Model
+A Search-Based Dynamic Reranking Model for Dependency Parsing
+A Sentence Interaction Network for Modeling Dependence between Sentences
+A short proof that O_2 is an MCFL
+A Thorough Examination of the CNN / Daily Mail Reading Comprehension Task
+A Trainable Spaced Repetition Model for Language Learning
+A Transition-Based System for Joint Lexical and Syntactic Analysis
+A Word-based Neural Network Method for Chinese Word Segmentation
+Achieving open vocabulary neural machine translation with hybrid word-character models
+Active Learning for Dependency Parsing with Partial Annotation
+Adaptive Joint Learning of Compositional and Non-Compositional Phrase Embeddings
+Addressing Limited Data for Textual Entailment Across Domains
+Agreement-based Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora
+Alleviating Poor Context with Background Knowledge for Named Entity Disambiguation
+ALTO: Active Learning with Topic Overviews for Speeding Label Induction and Document Labeling
+Analysing Biases in Human Perception of User Age and Gender from Text
+Annotating and Predicting Non-Restrictive Noun Phrase Modifications
+AraSenTi: Large-Scale Twitter-Specific Arabic Sentiment Lexicons
+Automatic identification of vector-space semantic content in speech to detect Alzheimer's disease
+Automatic Labeling of Topic Models Using Text Summaries
+Automatic Stance Classification of Argumentative Essays
+Automatic Text Scoring Using Neural Networks
+Beyond Plain Spatial Knowledge: Determining Where Entities Are and Are Not Located, and For How Long
+Bi-Transferring Deep Neural Networks for Domain Adaptation
+Bidirectional Recurrent Convolutional Neural Network for Relation Classification
+Bilingual Segmented Topic Model
+Case and Cause in Icelandic: Reconstructing Causal Networks of Cascaded Language Changes
+Causality of Verbs for Grounded Language Understanding
+CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases
+Chinese Couplet Generation with Neural Network Structures
+Collective Entity Resolution with Multi-Focal Attention
+Combining Natural Logic and Shallow Reasoning for Question Answering
+Commonsense Knowledge Base Completion
+Composing Distributed Representations of Relational Patterns
+Compositional Learning of Embeddings for Relation Paths in Knowledge Base and Text
+Compositional Sequence Labeling Models for Error Detection in Learner Writing
+Compressing Neural Language Models by Sparse Word Representations
+Connotation Frames: A Data-Driven Investigation
+Constrained Multi-Task Learning for Automated Essay Scoring
+Context-aware Argumentative Relation Mining
+Continuous Profile Models in ASL Syntactic Facial Expression Synthesis
+Coordination Annotation Extension in the Penn Tree Bank
+Cross-domain Text Classification with Multiple Domains and Disparate Label Sets
+Cross-Lingual Image Caption Generation
+Cross-Lingual Lexico-Semantic Transfer in Language Learning
+Cross-lingual Models of Word Embeddings: An Empirical Comparison
+Cross-Lingual Morphological Tagging for Low-Resource Languages
+Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning
+CSE: Conceptual Sentence Embeddings based on Attention Model
+Data Recombination for Neural Semantic Parsing
+Deep Fusion LSTMs for Text Semantic Matching
+Deep Reinforcement Learning with a Natural Language Action Space
+Dependency Parsing with Bounded Block Degree and Well-nestedness viaLagrangian Relaxation and Branch-and-Bound
+Detecting Common Discussion Topics Across Culture From News Reader Comments
+Detecting Events in FrameNet
+Diachronic word embeddings reveal laws of semantic change
+Discovery of Treatments from Text Corpora
+Discriminative Deep Random Walk for Network Classification
+DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents
+Document-level Sentiment Inference with Social, Faction, and Discourse Context
+Domain Adaptation for Authorship Attribution: Improved Structural Correspondence Learning
+Easy Questions First? Curriculum Learning for Question Answering
+Easy Things First: Installments Improve Referring Expression Generation for Objects in Photographs
+Edge-Linear First-Order Dependency Parsing with Undirected Minimum Spanning Tree Inference
+Effects of Text Corpus Properties on Short Text Clustering Performance
+Efficient techniques for parsing with tree automata
+Embeddings for Word Sense Disambiguation: An Evaluation Study
+End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
+Entropy converges between dialogue participants: explanations from an information-theoretic perspective
+Evaluating Sentiment Analysis in the Context of Securities Trading
+Exploring Convolutional and Recurrent Neural Networks in Sequential Labelling for Dialogue Topic Tracking
+Finding Non-Arbitrary Form-Meaning Systematicity Using String-Metric Learning for Kernel Regression
+Finding the Middle Ground - A Model for Planning Satisficing Answers
+Generalized Transition-based Dependency Parsing via Control Parameters
+Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus
+Generating Natural Questions About an Image
+Generative Topic Embedding: a Continuous Representation of Documents
+Globally Normalized Transition-Based Neural Networks
+Grammatical Error Correction: Machine Translation and Classifiers
+Graph-based Dependency Parsing with Bidirectional LSTM
+Graph-Based Translation Via Graph Segmentation
+Grapheme-to-Phoneme Models for (Almost) Any Language
+Harnessing Cognitive Features for Sarcasm Detection
+Harnessing Deep Neural Networks with Logic Rules
+Hidden Softmax Sequence Model for Dialogue Structure Analysis
+How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions
+How to Train Dependency Parsers with Inexact Search for Joint Sentence Boundary Detection and Parsing of Entire Documents
+How well do Computers Solve Math Word Problems? Large-Scale Dataset Construction and Evaluation
+Identifying Causal Relations Using Parallel Wikipedia Articles
+Idiom Token Classification using Sentential Distributed Semantics
+Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network
+Improved Representation Learning for Question Answer Matching
+Improved Semantic Parsers For If-Then Statements
+Improving Coreference Resolution by Learning Entity-Level Distributed Representations
+Improving Hypernymy Detection with an Integrated Path-based and Distributional Method
+Improving Neural Machine Translation Models with Monolingual Data
+Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+Incremental Acquisition of Verb Hypothesis Space towards Physical World Interaction
+Inferring Logical Forms From Denotations
+Inferring Perceived Demographics from User Emotional Tone and User-Environment Emotional Contrast
+Inner Attention based Recurrent Neural Network for Answer Selection
+Intrinsic Subspace Evaluation of Word Embedding Representations
+Investigating Language Universal and Specific in Word Embedding
+Investigating LSTMs for Joint Extraction of Opinion Entities and Relations
+Investigating the Sources of Linguistic Alignment in Conversation
+Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling
+Jointly Learning to Embed and Predict with Multiple Languages
+Knowledge Base Completion via Coupled Path Ranking
+Knowledge-Based Semantic Embedding for Machine Translation
+Language to Logical Form with Neural Attention
+Language Transfer Learning for Supervised Lexical Substitution
+Larger-Context Language Modelling with Recurrent Neural Network
+Latent Predictor Networks for Code Generation
+Learning Concept Taxonomies from Multi-modal Data
+Learning Language Games through Interaction
+Learning Precise Partial Semantic Mappings via Linear Algebra
+Learning Prototypical Event Structure from Photo Albums
+Learning Semantically and Additively Compositional Distributional Representations
+Learning Structured Predictors from Partial Information for Interactive NLP
+Learning Text Pair Similarity with Context-sensitive Autoencoders
+Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning
+Learning To Use Formulas To Solve Simple Arithmetic Problems
+Learning Word Meta-Embeddings
+Learning-Based Single-Document Summarization with Compression and Anaphoricity Constraints
+Leveraging inflection tables for Stemming and Lemmatization via Discriminative String Transduction.
+LexSemTm: A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning
+Liberal Event Extraction and Event Schema Induction
+Literal and Metaphorical Senses in Compositional Distributional Semantic Models
+Metaphor Detection Using Topic Transition, Emotion and Cognition in Context
+Minimum Risk Training for Neural Machine Translation
+Mining Paraphrasal Typed Templates from a Plain Text Corpus
+Model Architectures for Quotation Detection
+Modeling Concept Dependencies in a Scientific Corpus
+Modeling Coverage for Neural Machine Translation
+Modeling Simpler Logical Forms via Model Projections
+Modeling Social Norms Evolution for Personalized Sentiment Classification
+Models and Inference for Prefix-Constrained Machine Translation
+Morphological Smoothing and Extrapolation of Word Embeddings
+Most "babies" are "little" and most "problems" are "huge": Compositional Entailment in Adjective-Nouns
+Multimodal Pivots for Image Caption Translation
+MUTT: Metric Unit TesTing for Language Generation Tasks
+N-gram language models for massively parallel devices
+Neural Greedy Constituent Parsing with Dynamic Oracles
+Neural Machine Translation of Rare Words with Subword Units
+Neural Network-Based Model for Japanese Predicate Argument Structure Analysis
+Neural Networks For Negation Scope Detection
+Neural Relation Extraction with Selective Attention over Instances
+Neural Semantic Role Labeling with Dependency Path Embeddings
+Neural Summarization by Extracting Sentences and Words
+News Citation Recommendation with Implicit and Explicit Semantics
+Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing
+Normalising Medical Concepts in Social Media Texts by Learning Semantic Representation
+Normalized Log-Linear Language Model Interpolation is Efficient
+Off-topic Response Detection for Spontaneous Spoken English Assessment
+On approximately searching similar word embeddings
+On the Role of Seed Lexicons in Learning Bilingual Word Embeddings
+On the Similarities Between Native, Non-native and Translated Texts
+On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems
+One for All: Towards Language Independent Named Entity Linking
+Optimizing an approximation of ROUGE - a problem-reduction approach to extractive multi-document summarization
+Optimizing Spectral Learning for Parsing
+Part-of-Speech Induction from fMRI
+Phrase Structure Annotation and Parsing for Learner English
+Pointing the Unknown Words
+Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time
+Predicting the Rise and Fall of Scientific Topics from Linguistic Cues to their Scholarly Functions
+Prediction of Prospective User Engagement with Intelligent Assistants
+Probabilistic Graph-based Dependency Parsing with Convolutional Neural Network
+Query Expansion with Locally-Trained Word Embeddings
+Question Answering on Freebase via Relation Extraction and Textual Evidence
+RBPB: Regularization-Based Pattern Balancing Method for Event Extraction
+Reconstructing Hidden Documents from Observed Text
+Recurrent neural network models for disease name recognition using domain invariant features
+Relation Classification via Multi-Level Attention CNNs
+Resolving References to Objects in Photographs using the Words-As-Classifiers Model
+Scaling a Natural Language Generation System
+Segment-Level Sequence Modeling using Gated Recursive Semi-Markov Conditional Random Fields
+Semi-Supervised Learning for Neural Machine Translation
+Sentence Rewriting for Semantic Parsing
+Sentiment Domain Adaptation with Multiple Sources
+Sequence-based Structured Prediction for Semantic Parsing
+Set-Theoretic Alignment for Comparable Corpora
+Siamese CBOW: Optimizing Word Embeddings for Sentence Representations
+Situation entity types: automatic classification of clause-level aspect
+Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models
+Stack-propagation: Improved Representation Learning for Syntax
+Strategies for Training Large Vocabulary Neural Language Models
+Summarizing Source Code using a Neural Attention Model
+Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction and Utilization
+Synthesizing Compound Words for Machine Translation
+Tables as Semi-structured Knowledge for Question Answering
+Take and Took, Gaggle and Goose, Book and Read: Evaluating the Utility of Vector Differences for Lexical Relation Learning
+Target-Side Context for Discriminative Models in Statistical Machine Translation
+Temporal Anchoring of Events for the TimeBank Corpus
+Text Understanding with the Attention Sum Reader Network
+The Creation and Analysis of a Website Privacy Policy Corpus
+The LAMBADA dataset: Word prediction requiring a broad discourse context
+The More Antecedents, the Merrier: Tackling Multiple Antecedents in Anaphor Resolution
+The Top 14 Aspects of Editorial Quality Control of Online News
+Together we stand: Siamese Networks for Similar Question Retrieval
+Topic Extraction from Microblog Posts Using Conversation Structures
+Toward Constructing Sports News from Live Text Commentary
+Towards more variation in text generation Developing and evaluating variation models for choice of referential form
+TransG : A Generative Model for Knowledge Graph Embedding
+Transition-Based Left-Corner Parsing for Identifying PTB-Style Nonlocal Dependencies
+Tree-to-Sequence Attentional Neural Machine Translation
+Two Discourse Driven Language Models for Semantics
+Understanding Discourse on Work and Job-Related Well-Being in Public Social Media
+Universal Dependencies for Learner English
+Unravelling Names of Fictional Characters
+Unsupervised Multi-Author Document Decomposition Based on Hidden Markov Model
+Unsupervised Person Slot Filling based on Graph Mining
+User Modeling in Language Learning with Macaronic Texts
+Using Sentence-Level LSTM Language Models for Script Inference
+Verbs taking clausal and non-finite arguments as signals of factuality or uncertainty – revisiting the issue of meaning grounded in syntax
+Which argument is more convincing? Analyzing and predicting convincingness of Web arguments using bidirectional LSTM
+Which Coreference Evaluation Metric Do You Trust? A Proposal for a Link-based Entity Aware Metric
+WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia
+Word-Based Neural Models for Chinese Segmentation
+Zero Pronoun Resolution with Low-Dimensional Features
+ 
+ 
+A Domain Adaptation Regularization for Denoising Autoencoders
+A Fast Algorithm for Semantic Short Texts Retrieval
+A Language-Independent Neural Network for Event Detection
+A Latent Concept Topic Model for Robust Topic Inference
+A Neural Network based Approach to Automatic Post-Editing
+A Novel Measure for Coherence in Statistical Topic Models
+An Entity-Focused Approach to Generating Company Descriptions
+An Open Web Platform for Rule-Based Speech-to-Sign Translation
+An Unsupervised Method for Automatic Translation Memory Cleaning
+Annotating Relation Inference in Context via Question Answering
+Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification
+Automatic Semantic Classification of German Preposition Types: Comparing Hard and Soft Clustering Approaches across Features
+Beyond Privacy: The Social Impact of Natural Language Processing
+Bootstrapped Text-level Named Entity Recognition for Literature
+Character-based Neural Machine Translation
+Claim Synthesis via Predicate Recycling
+Coarse-grained Argumentation Features for Scoring Persuasive Essays
+Convergence of Syntactic Complexity in Conversation
+Cross-lingual projection for class-based language models
+Cross-Lingual Word Representations via Spectral Graph Embeddings
+Deep multi-task learning with low level tasks supervised at lower layers
+Deep Neural Networks for Syntactic Parsing of Morphologically Rich Languages
+Dependency-based Gated Recursive Neural Network for Chinese Word Segmentation
+Detecting Mild Cognitive Impairment by Exploiting Linguistic Information from Transcripts
+Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model
+Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks
+Don't Count, Predict! An Automatic Approach to Learning Sentiment Lexicons for Short Text
+Empty element recovery by spinal parser operations
+Event Nugget Detection with Bidirectional Recurrent Neural Networks
+Exploiting Linguistic Features for Use in Sentence Completion
+Exploring Stylistic Variation with Age and Income on Twitter
+Exponentially Decaying Bag-of-Words Input Features for Feed-Forward Neural Network in Statistical Machine Translation
+Finding Optimistic and Pessimistic Users on Twitter
+Hawkes Processes for Continuous Time Sequence Classification: an Application to Rumour Stance Classification in Twitter
+How Naked is the Naked Truth? A Multilingual Lexicon of Nominal Compound Compositionality
+Hunting for Troll Comments in News Community Forums
+IBC-C: A dataset for armed conflict analysis
+Implicit Polarity and Implicit Aspect Recognition in Opinion Mining
+Improved Parsing for Argument-Clusters Coordination
+Improving Argument Overlap for Proposition-Based Summarisation
+Improving cross-domain n-gram language modelling with skipgrams
+Improving Statistical Machine Translation Performance by Oracle-BLEU Model Re-estimation
+Incorporating Relational Knowledge into Word Representations using Subspace Regularization
+Incremental Parsing with Minimal Features Using Bi-Directional LSTM
+Integrating Distributional Lexical Contrast into Word Embeddings for Antonym-Synonym Distinction
+Is "Universal Syntax" Universally Useful for Learning Distributed Word Representations?
+Is This Post Persuasive? Ranking Argumentative Comments in Online Forum
+Joint part-of-speech and dependency projection from multiple sources
+Joint Word Segmentation and Phonetic Category Induction
+Learning easy to compose word representations via bilingual supervision
+Learning Multiview Embeddings of Twitter Users
+Learning Word Segmentation Representations to Improve Named Entity Recognition for Chinese Social Media
+Leveraging Lexical Resources for Learning Entity Embeddings in Multi-Relational Data
+Machine Comprehension using Rich Semantic Representations
+Machine Translation Evaluation Meets Community Question Answering
+Matrix Factorization using Window Sampling for Improved Word Representations
+Metrics for Evaluation of Word-level Machine Translation Quality Estimation
+Modelling the Interpretation of Discourse Connectives by Bayesian Pragmatics
+Morphological Reinflection with Encoder-Decoder Models and Edit Trees
+Multi-Modal Representations for Improved Bilingual Lexicon Learning
+Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models
+Multiplicative Representations for Unsupervised Semantic Role Induction
+Natural Language Generation enhances human decision-making with uncertain information: NLG works for women
+Natural Language Inference by Tree-Based Convolution and Heuristic Matching
+Nonparametric Spherical Topic Modeling with Word Embeddings
+On the linearity of semantic change: Investigating meaning variation via dynamic graph models
+One model, two languages: training bilingual parsers with harmonized treebanks
+Part-of-speech induction from eye-tracking data
+Phrase Table Pruning via Submodular Function Maximization
+Phrase-Level Combination of SMT and TM Using Constrained Word Lattice
+Recognizing Salient Entities in Shopping Queries
+Reference Bias in Monolingual Machine Translation Evaluation
+Scalable Semi-Supervised Query Classification Using Matrix Sketching
+Science Question Answering using Instructional Materials
+Semantic classifications for detection of verb metaphors
+Semantics-Driven Recognition of Collocations Using Word Embeddings
+Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings
+Simple PPDB: A Paraphrase Database for Simplification
+Specifying and Annotating Reduced Argument Span Via QA-SRL
+Syntactically Guided Neural Machine Translation
+Text Simplification as Tree Labeling
+The Enemy in Your Own Camp: How Well Can We Detect Statistically-Generated Fake Reviews – An Adversarial Study
+The red one! Learning to predict attributes that discriminate a referent in a visual context
+The Value of Semantic Parse Labeling for Knowledge Base Question Answering
+Transductive Adaptation of Black Box Predictions
+Transition-based dependency parsing with topological fields
+Tweet2Vec: Character-Based Distributed Representations for Social Media
+Unsupervised morph segmentation and statistical language models for vocabulary expansion
+User Embedding for Scholarly Microblog Recommendation
+Using mention accessibility to improve coreference resolution
+Using Sequence Similarity Networks to Identify Partial Cognates in Multilingual Wordlists
+Very quaffable and great fun: Applying NLP to wine reviews
+Vocabulary Manipulation for Large Vocabulary Neural Machine Translation
+Which Tumblr Post Should I Read Next?
+Word Alignment without NULL Words
+Word Embedding Calculus in Meaningful Ultradense Subspaces
+Word Embedding with Limited Memory
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACL | Association for Computational Linguistics
